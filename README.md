@@ -49,5 +49,3 @@ An interactive dashboard has been meticulously designed to provide users with th
 ### Future Analysis
 
 As a more advanced step, the project could explore the development of machine learning algorithms to predict future match outcomes and identify potential areas for team strategy enhancements. Additionally, integrating natural language processing techniques could empower users to query the data for specific insights of interest.
-
-##### Please note that an interactive dashboard is created to play along with and find the champion, Orange Cap holder, Purple Cap holder, Tournament 4s and 6s, and Toss based winning percentage is displayed for each year 
