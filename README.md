@@ -14,7 +14,7 @@ This project is dedicated to a comprehensive analysis of the Indian Premier Leag
 
 An interactive dashboard has been meticulously designed to provide users with the opportunity to engage actively with the data. Users can utilize this dashboard to ascertain the IPL champion, identify the players holding the Orange and Purple Caps, access statistics regarding tournament boundaries (4s and 6s), and gain insights into the influence of toss outcomes on the winning percentage, all conveniently organized by each year of the tournament. Please feel free to go ahead and play with it. 
 
-##### Some of the other valuable findings are: 
+#### Some of the other valuable findings are: 
 
 -> Prominent players such as AB de Villiers, MS Dhoni, DA Warner, RG Sharma, CH Gayle, SK Raina, and V Kohli have consistently performed and led their teams to victories.
 
