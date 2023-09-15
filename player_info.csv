@@ -1,0 +1,567 @@
+Player_Name,Batting_Hand,Bowling_Skill,Country
+A Ashish Reddy,Right_Hand,Right-arm medium,India
+A Chandila,Right_Hand,Right-arm offbreak,India
+A Chopra,Right_Hand,Right-arm offbreak,India
+A Choudhary,Right_Hand,Left-arm fast-medium,India
+A Dananjaya,Right_Hand,Right-arm offbreak,India
+A Flintoff,Right_Hand,Right-arm fast-medium,England
+A Hales,Right_Hand,Right-arm medium,India
+A Joseph,Right_Hand,Right-arm fast,India
+A Kumble,Right_Hand,Legbreak googly,India
+A Mishra,Right_Hand,Legbreak,India
+A Mithun,Right_Hand,Right-arm medium,India
+A Mukund,Right_Hand,Legbreak googly,India
+A Nehra,Right_Hand,Left-arm medium-fast,India
+A Nel,Right_Hand,Right-arm fast-medium,South Africa
+A Roy,Left_Hand,Slow left-arm orthodox,India
+A Singh,Right_Hand,Right-arm medium-fast,India
+A Symonds,Right_Hand,Right-arm offbreak,Australia
+A Turner,Right_Hand,Right-arm medium,India
+A Uniyal,Right_Hand,Left-arm medium,India
+A Zampa,Right_Hand,Legbreak googly,Australia
+AA Bilakhia,Right_Hand,Right-arm medium,India
+AA Chavan,Right_Hand,Slow left-arm orthodox,India
+AA Jhunjhunwala,Right_Hand,Right-arm offbreak,India
+AA Kazi,Right_Hand,Slow left-arm orthodox,India
+AA Noffke,Right_Hand,Right-arm fast-medium,Australia
+AB Agarkar,Right_Hand,Right-arm fast,India
+AB Barath,Left_Hand,Right-arm offbreak,India
+AB de Villiers,Right_Hand,Right-arm medium,South Africa
+AB Dinda,Right_Hand,Right-arm medium-fast,India
+AB McDonald,Right_Hand,Right-arm fast-medium,Australia
+Abdur Razzak,Left_Hand,Slow left-arm orthodox,Bangladesh
+AC Blizzard,Left_Hand,Left-arm medium,Australia
+AC Gilchrist,Left_Hand,Right-arm offbreak,Australia
+AC Thomas,Right_Hand,Right-arm fast-medium,England
+AC Voges,Right_Hand,Slow left-arm orthodox,Australia
+AD Mascarenhas,Right_Hand,Right-arm fast-medium,England
+AD Mathews,Right_Hand,Right-arm fast-medium,Sri Lanka
+AD Nath,Right_Hand,Right-arm medium-fast,India
+AD Russell,Right_Hand,Right-arm fast,West Indies
+AF Milne,Right_Hand,Right-arm fast,New Zealand
+AG Murtaza,Left_Hand,Slow left-arm orthodox,India
+AG Paunikar,Right_Hand,Right-arm medium,India
+AJ Finch,Right_Hand,Slow left-arm orthodox,Australia
+AJ Tye,Right_Hand,Right-arm fast-medium,India
+AL Menaria,Left_Hand,Slow left-arm orthodox,India
+AM Nayar,Left_Hand,Right-arm medium,India
+AM Rahane,Right_Hand,Right-arm medium,India
+AM Salvi,Right_Hand,Right-arm medium,India
+AN Ahmed,Right_Hand,Right-arm medium-fast,India
+AN Ghosh,Right_Hand,Right-arm medium,India
+Anand Rajan,Right_Hand,Right-arm medium,India
+Anirudh Singh,Left_Hand,Right-arm medium,India
+Ankit Sharma,Left_Hand,Slow left-arm orthodox,India
+Ankit Soni,Right_Hand,Legbreak,India
+Anureet Singh,Right_Hand,Right-arm medium,India
+AP Dole,Right_Hand,Right-arm medium-fast,India
+AP Majumdar,Right_Hand,Legbreak googly,India
+AP Tare,Right_Hand,Right-arm medium,India
+AR Bawne,Right_Hand,Right-arm medium,India
+AR Patel,Left_Hand,Slow left-arm orthodox,India
+AS Rajpoot,Right_Hand,Right-arm medium,India
+AS Raut,Right_Hand,Legbreak googly,India
+AS Yadav,Right_Hand,Right-arm medium,India
+AT Rayudu,Right_Hand,Right-arm offbreak,India
+AUK Pathan,Right_Hand,Right-arm medium,India
+AV Wankhade,Right_Hand,Right-arm medium,India
+Avesh Khan,Right_Hand,Right-arm fast-medium,India
+Azhar Mahmood,Right_Hand,Right-arm fast-medium,Pakistan
+B Akhil,Right_Hand,Right-arm medium-fast,India
+B Aparajith,Right_Hand,Right-arm offbreak,India
+B Chipli,Right_Hand,Right-arm medium,India
+B Geeves,Right_Hand,Right-arm fast-medium,Australia
+B Kumar,Right_Hand,Right-arm medium,India
+B Laughlin,Right_Hand,Right-arm fast-medium,Australia
+B Lee,Right_Hand,Right-arm fast,Australia
+B Stanlake,Right_Hand,Right-arm fast,India
+B Sumanth,Right_Hand,Right-arm medium-fast,India
+BA Bhatt,Left_Hand,Slow left-arm orthodox,India
+BA Stokes,Left_Hand,Right-arm fast-medium,India
+Basil Thampi,Right_Hand,Right-arm fast,India
+BAW Mendis,Right_Hand,Right-arm offbreak,Sri Lanka
+BB McCullum,Right_Hand,Right-arm medium,New Zealand
+BB Samantray,Right_Hand,Right-arm medium,India
+BB Sran,Left_Hand,Left-arm medium,India
+BCJ Cutting,Right_Hand,Right-arm fast-medium,Australia
+BE Hendricks,Left_Hand,Left-arm fast-medium,South Africa
+Bipul Sharma,Left_Hand,Slow left-arm orthodox,India
+BJ Haddin,Right_Hand,Right-arm medium,Australia
+BJ Hodge,Right_Hand,Right-arm offbreak,Australia
+BJ Rohrer,Left_Hand,Right-arm offbreak,Australia
+BMAJ Mendis,Left_Hand,Right-arm offbreak,Sri Lanka
+BR Dunk,Left_Hand,Right-arm fast,Australia
+BW Hilfenhaus,Right_Hand,Right-arm fast,Australia
+C de Grandhomme,Right_Hand,Legbreak,India
+C Ganapathy,Right_Hand,Right-arm medium,India
+C Ingram,Left_Hand,Right-arm fast-medium,India
+C Madan,Right_Hand,Right-arm medium,India
+C Munro,Left_Hand,Right-arm medium-fast,New Zealand
+C Nanda,Right_Hand,Legbreak,India
+CA Ingram,Left_Hand,Legbreak,South Africa
+CA Lynn,Right_Hand,Slow left-arm orthodox,Australia
+CA Pujara,Right_Hand,Legbreak,India
+CH Gayle,Left_Hand,Right-arm offbreak,West Indies
+CH Morris,Right_Hand,Right-arm fast-medium,South Africa
+CJ Anderson,Left_Hand,Left-arm medium-fast,New Zealand
+CJ Ferguson,Right_Hand,Right-arm medium,Australia
+CJ Jordan,Right_Hand,Right-arm fast-medium,England
+CJ McKay,Right_Hand,Right-arm fast-medium,Australia
+CK Kapugedera,Right_Hand,Right-arm medium,Sri Lanka
+CK Langeveldt,Right_Hand,Right-arm fast-medium,England
+CL White,Right_Hand,Legbreak googly,Australia
+CM Gautam,Right_Hand,Right-arm medium,India
+CR Brathwaite,Right_Hand,Right-arm fast-medium,West Indies
+CR Woakes,Right_Hand,Right-arm fast-medium,India
+CRD Fernando,Right_Hand,Right-arm fast-medium,Sri Lanka
+D du Preez,Right_Hand,Right-arm fast-medium,South Africa
+D Kalyankrishna,Right_Hand,Right-arm medium-fast,India
+D Salunkhe,Right_Hand,Legbreak,India
+D Shorey,Right_Hand,Right-arm medium,India
+D Short,Left_Hand,Slow left-arm orthodox,India
+D Wiese,Right_Hand,Right-arm medium-fast,South Africa
+D Willey,Right_Hand,Left-arm fast-medium,India
+DA Miller,Left_Hand,Right-arm offbreak,South Africa
+DA Warner,Left_Hand,Legbreak,Australia
+DAJ Bracewell,Right_Hand,Right-arm fast-medium,New Zealand
+DB Das,Right_Hand,Legbreak googly,India
+DB Ravi Teja,Right_Hand,Legbreak googly,India
+DE Bollinger,Left_Hand,Left-arm fast-medium,Australia
+DH Yagnik,Left_Hand,Right-arm medium,India
+DJ Bravo,Right_Hand,Right-arm medium-fast,West Indies
+DJ Harris,Right_Hand,Right-arm medium,Australia
+DJ Hooda,Right_Hand,Right-arm offbreak,India
+DJ Hussey,Right_Hand,Right-arm offbreak,Australia
+DJ Jacobs,Right_Hand,Right-arm medium,South Africa
+DJ Muthuswami,Right_Hand,Right-arm medium,India
+DJ Thornely,Right_Hand,Right-arm medium,Australia
+DJG Sammy,Right_Hand,Right-arm medium-fast,West Indies
+DL Chahar,Right_Hand,Right-arm medium,India
+DL Vettori,Left_Hand,Slow left-arm orthodox,New Zealand
+DM Bravo,Left_Hand,Right-arm medium,India
+DNT Zoysa,Left_Hand,Left-arm fast-medium,Sri Lanka
+DP Nannes,Right_Hand,Left-arm fast,Australia
+DP Vijaykumar,Right_Hand,Right-arm medium,India
+DPMD Jayawardene,Right_Hand,Right-arm medium,Sri Lanka
+DR Martyn,Right_Hand,Right-arm medium,Australia
+DR Smith,Right_Hand,Right-arm medium,West Indies
+DS Kulkarni,Right_Hand,Right-arm medium,India
+DS Lehmann,Left_Hand,Slow left-arm orthodox,Australia
+DT Christian,Right_Hand,Right-arm fast-medium,Australia
+DT Patil,Right_Hand,Right-arm medium,India
+DW Steyn,Right_Hand,Right-arm fast,South Africa
+E Lewis,Left_Hand,Right-arm medium,India
+EJG Morgan,Left_Hand,Right-arm medium,England
+ER Dwivedi,Right_Hand,Right-arm medium,India
+F Behardien,Right_Hand,Right-arm fast-medium,South Africa
+F du Plessis,Right_Hand,Legbreak,South Africa
+FH Edwards,Right_Hand,Right-arm fast,West Indies
+FY Fazal,Left_Hand,Right-arm medium,India
+G Gambhir,Left_Hand,Legbreak,India
+Gagandeep Singh,Right_Hand,Right-arm medium-fast,India
+GB Hogg,Left_Hand,Slow left-arm chinaman,Australia
+GC Smith,Left_Hand,Right-arm offbreak,South Africa
+GD McGrath,Right_Hand,Right-arm fast-medium,Australia
+GH Vihari,Right_Hand,Right-arm offbreak,India
+GJ Bailey,Right_Hand,Right-arm medium,Australia
+GJ Maxwell,Right_Hand,Right-arm offbreak,Australia
+GR Napier,Right_Hand,Right-arm medium,England
+GS Sandhu,Left_Hand,Right-arm fast-medium,Australia
+Gurkeerat Singh,Right_Hand,Right-arm offbreak,India
+H Brar,Left_Hand,Slow left-arm orthodox,India
+H Das,Right_Hand,Right-arm medium,India
+H Gurney,Right_Hand,Right-arm fast-medium,India
+H Klaasen,Right_Hand,Right-arm medium,India
+H Vihari,Right_Hand,Right-arm offbreak,India
+H Viljoen,Right_Hand,Right-arm fast,India
+Harbhajan Singh,Right_Hand,Right-arm offbreak,India
+Harmeet Singh,Left_Hand,Slow left-arm orthodox,India
+Harmeet Singh (2),Right_Hand,Right-arm fast-medium,India
+Harpreet Singh,Left_Hand,Right-arm medium,India
+HH Gibbs,Right_Hand,Right-arm bowler,South Africa
+HH Pandya,Right_Hand,Right-arm medium-fast,India
+HM Amla,Right_Hand,Right-arm offbreak,South Africa
+HV Patel,Right_Hand,Right-arm medium,India
+I Malhotra,Right_Hand,Right-arm medium-fast,India
+I Sharma,Right_Hand,Right-arm fast-medium,India
+I Sodhi,Right_Hand,Legbreak googly,India
+IC Pandey,Right_Hand,Right-arm medium,India
+IK Pathan,Left_Hand,Left-arm medium-fast,India
+Imran Tahir,Right_Hand,Legbreak googly,India
+Iqbal Abdulla,Left_Hand,Slow left-arm orthodox,India
+IR Jaggi,Right_Hand,Legbreak googly,India
+Ishan Kishan,Left_Hand,Right-arm medium,India
+J Archer,Right_Hand,Right-arm fast,India
+J Arunkumar,Right_Hand,Right-arm offbreak,India
+J Bairstow,Right_Hand,Right-arm medium,India
+J Behrendorff,Right_Hand,Left-arm fast-medium,India
+J Botha,Right_Hand,Right-arm offbreak,South Africa
+J Dala,Right_Hand,Right-arm Medium,India
+J Denly,Right_Hand,Right-arm medium,India
+J Searles,Right_Hand,Right-arm fast-medium,India
+J Suchith,Left_Hand,Slow left-arm orthodox,India
+J Syed Mohammad,Left_Hand,Slow left-arm orthodox,India
+J Theron,Right_Hand,Right-arm medium-fast,South Africa
+J Yadav,Right_Hand,Right-arm offbreak,India
+JA Morkel,Left_Hand,Right-arm medium-fast,South Africa
+Jaskaran Singh,Right_Hand,Right-arm medium,India
+JC Buttler,Right_Hand,Right-arm medium,England
+JD Ryder,Left_Hand,Right-arm medium,New Zealand
+JD Unadkat,Right_Hand,Left-arm medium,India
+JDP Oram,Left_Hand,Right-arm fast-medium,New Zealand
+JDS Neesham,Left_Hand,Right-arm medium,New Zealand
+JE Taylor,Right_Hand,Right-arm fast,New Zealand
+JEC Franklin,Left_Hand,Left-arm medium,New Zealand
+JH Kallis,Right_Hand,Right-arm fast-medium,South Africa
+JJ Bumrah,Right_Hand,Right-arm medium,India
+JJ Roy,Right_Hand,Right-arm medium,India
+JJ van der Wath,Right_Hand,Right-arm medium-fast,South Africa
+JM Kemp,Right_Hand,Right-arm fast-medium,South Africa
+JO Holder,Right_Hand,Right-arm medium-fast,West Indies
+Joginder Sharma,Right_Hand,Right-arm fast-medium,India
+JP Duminy,Left_Hand,Right-arm offbreak,South Africa
+JP Faulkner,Right_Hand,Left-arm fast-medium,Australia
+JR Hopes,Right_Hand,Right-arm medium,Australia
+JW Hastings,Right_Hand,Right-arm fast-medium,Australia
+K Ahmed,Right_Hand,Left-arm fast-medium,India
+K Goel,Left_Hand,Right-arm offbreak,India
+K Gowtham,Right_Hand,Right-arm offbreak,India
+K Khejroliya,Right_Hand,Left-arm fast-medium,India
+K Paul,Right_Hand,Right-arm fast-medium,India
+K Rabada,Left_Hand,Right-arm fast,India
+K Santokie,Left_Hand,Left-arm medium,West Indies
+K Upadhyay,Right_Hand,Right-arm medium,India
+KA Pollard,Right_Hand,Right-arm medium-fast,West Indies
+KAJ Roach,Right_Hand,Right-arm fast,West Indies
+Kamran Akmal,Right_Hand,Right-arm medium,Pakistan
+Kamran Khan,Left_Hand,Left-arm medium-fast,India
+Karanveer Singh,Right_Hand,Legbreak googly,India
+KB Arun Karthik,Right_Hand,Legbreak googly,India
+KC Cariappa,Right_Hand,Legbreak,India
+KC Sangakkara,Left_Hand,Right-arm offbreak,Sri Lanka
+KD Karthik,Right_Hand,Right-arm medium,India
+KH Devdhar,Right_Hand,Right-arm medium,India
+KH Pandya,Left_Hand,Slow left-arm orthodox,India
+KJ Abbott,Right_Hand,Right-arm fast-medium,South Africa
+KK Cooper,Right_Hand,Right-arm medium,West Indies
+KK Nair,Right_Hand,Right-arm offbreak,India
+KL Rahul,Right_Hand,Right-arm medium,India
+KM Asif,Right_Hand,Right-arm medium,India
+KM Jadhav,Right_Hand,Right-arm offbreak,India
+KMDN Kulasekara,Right_Hand,Right-arm fast-medium,Sri Lanka
+KP Appanna,Right_Hand,Slow left-arm orthodox,India
+KP Pietersen,Right_Hand,Right-arm offbreak,South Africa
+KS Williamson,Right_Hand,Right-arm offbreak,New Zealand
+Kuldeep Yadav,Left_Hand,Slow left-arm chinaman,India
+KV Sharma,Left_Hand,Legbreak googly,India
+KW Richardson,Right_Hand,Right-arm fast-medium,Australia
+L Ablish,Right_Hand,Right-arm medium-fast,India
+L Balaji,Right_Hand,Right-arm medium-fast,India
+L Ferguson,Right_Hand,Right-arm fast,India
+L Livingstone,Right_Hand,Right-arm offbreak,India
+L Ngidi,Right_Hand,Slow left-arm orthodox,India
+L Plunkett,Right_Hand,Right-arm fast,India
+L Ronchi,Right_Hand,Right-arm fast,Australia
+LA Carseldine,Left_Hand,Legbreak,Australia
+LA Pomersbach,Left_Hand,Right-arm medium,Australia
+LH Ferguson,Right_Hand,Right-arm fast-medium,India
+LJ Wright,Right_Hand,Right-arm medium-fast,England
+LMP Simmons,Right_Hand,Right-arm medium-fast,West Indies
+LPC Silva,Right_Hand,Legbreak,Sri Lanka
+LR Shukla,Right_Hand,Right-arm medium,India
+LRPL Taylor,Right_Hand,Right-arm offbreak,New Zealand
+M Ali,Left_Hand,Right-arm offbreak,India
+M Ashwin,Right_Hand,Legbreak googly,India
+M de Lange,Right_Hand,Right-arm fast,South Africa
+M Kaif,Right_Hand,Right-arm offbreak,India
+M Kartik,Left_Hand,Slow left-arm orthodox,India
+M Klinger,Right_Hand,Right-arm medium,Australia
+M Lomror,Left_Hand,Slow left-arm orthodox,India
+M Manhas,Right_Hand,Right-arm offbreak,India
+M Markande,Right_Hand,Legbreak googly,India
+M Morkel,Left_Hand,Right-arm fast,South Africa
+M Muralitharan,Right_Hand,Right-arm offbreak,Sri Lanka
+M Ntini,Right_Hand,Right-arm fast,South Africa
+M Rawat,Right_Hand,Right-arm medium,India
+M Santner,Left_Hand,Slow left-arm orthodox,India
+M Ur Rahman,Right_Hand,Right-arm offbreak,India
+M Vijay,Right_Hand,Right-arm offbreak,India
+M Vohra,Right_Hand,Right-arm medium,India
+M Wood,Right_Hand,Right-arm fast,India
+MA Agarwal,Right_Hand,Right-arm medium,India
+MA Khote,Right_Hand,Right-arm medium,India
+MA Starc,Left_Hand,Left-arm fast,Australia
+Mandeep Singh,Right_Hand,Right-arm medium,India
+Mashrafe Mortaza,Right_Hand,Right-arm fast-medium,Bangladesh
+MB Parmar,Right_Hand,Right-arm offbreak,India
+MC Henriques,Right_Hand,Right-arm fast-medium,Australia
+MC Juneja,Right_Hand,Right-arm offbreak,India
+MD Mishra,Right_Hand,Right-arm offbreak,India
+MDKJ Perera,Left_Hand,Right-arm medium,Sri Lanka
+MEK Hussey,Left_Hand,Right-arm medium,Australia
+MF Maharoof,Right_Hand,Right-arm fast-medium,India
+MG Johnson,Left_Hand,Left-arm fast,Australia
+MG Neser,Right_Hand,Right-arm medium,Australia
+Misbah-ul-Haq,Right_Hand,Legbreak,Pakistan
+MJ Clarke,Right_Hand,Slow left-arm orthodox,Australia
+MJ Guptill,Right_Hand,Right-arm offbreak,New Zealand
+MJ Henry,Right_Hand,Right-arm fast,India
+MJ Lumb,Left_Hand,Right-arm medium,England
+MJ McClenaghan,Left_Hand,Left-arm fast-medium,New Zealand
+MK Pandey,Right_Hand,Right-arm medium,India
+MK Tiwary,Right_Hand,Legbreak googly,India
+ML Hayden,Left_Hand,Right-arm medium,Australia
+MM Patel,Right_Hand,Right-arm medium-fast,India
+MM Sharma,Right_Hand,Right-arm medium,India
+MN Samuels,Right_Hand,Right-arm offbreak,West Indies
+MN van Wyk,Right_Hand,Slow left-arm orthodox,South Africa
+Mohammad Ashraful,Right_Hand,Right-arm offbreak,Bangladesh
+Mohammad Asif,Left_Hand,Right-arm fast-medium,Pakistan
+Mohammad Hafeez,Right_Hand,Right-arm offbreak,Pakistan
+Mohammad Nabi,Right_Hand,Right-arm offbreak,India
+Mohammed Shami,Right_Hand,Right-arm fast-medium,India
+Mohammed Siraj,Right_Hand,Right-arm fast,India
+MP Stoinis,Right_Hand,Right-arm medium,Australia
+MR Marsh,Right_Hand,Right-arm medium,Australia
+MS Bisla,Right_Hand,Right-arm medium,India
+MS Dhoni,Right_Hand,Right-arm medium,India
+MS Gony,Right_Hand,Right-arm medium,India
+MS Wade,Left_Hand,Right-arm medium,Australia
+Mustafizur Rahman,Left_Hand,Left-arm fast-medium,Bangladesh
+MV Boucher,Right_Hand,Right-arm medium,South Africa
+N Naik,Right_Hand,Right-arm medium,India
+N Pooran,Left_Hand,Right-arm medium,India
+N Rana,Left_Hand,Right-arm offbreak,India
+N Saini,Right_Hand,Right-arm fast,India
+NB Singh,Right_Hand,Right-arm fast,India
+ND Doshi,Right_Hand,Slow left-arm orthodox,India
+Niraj Patel,Left_Hand,Right-arm medium,India
+NJ Maddinson,Left_Hand,Slow left-arm orthodox,Australia
+NJ Rimmington,Right_Hand,Right-arm fast-medium,Australia
+NK Patel,Left_Hand,Right-arm medium,India
+NL McCullum,Right_Hand,Right-arm offbreak,New Zealand
+NLTC Perera,Left_Hand,Right-arm medium-fast,Sri Lanka
+NM Coulter-Nile,Right_Hand,Right-arm fast,Australia
+NS Naik,Right_Hand,Right-arm medium,India
+NV Ojha,Right_Hand,Right-arm medium,India
+O Thomas,Right_Hand,Right-arm fast,India
+OA Shah,Right_Hand,Right-arm offbreak,England
+P Amarnath,Right_Hand,Right-arm medium,India
+P Awana,Right_Hand,Right-arm medium,India
+P Chopra,Right_Hand,Right-arm medium,India
+P Dharmani,Right_Hand,Right-arm medium,India
+P Dogra,Right_Hand,Legbreak,India
+P Krishna,Right_Hand,Right-arm fast,India
+P Kumar,Right_Hand,Right-arm medium,India
+P Negi,Left_Hand,Slow left-arm orthodox,India
+P Parameswaran,Right_Hand,Left-arm medium,India
+P Prasanth,Left_Hand,Slow left-arm orthodox,India
+P R Barman,Right_Hand,Legbreak,India
+P Raj,Right_Hand,Left-arm medium,India
+P Sahu,Right_Hand,Legbreak googly,India
+P Shaw,Right_Hand,Right-arm medium,India
+P Suyal,Right_Hand,Left-arm medium,India
+PA Patel,Left_Hand,Right-arm medium,India
+PA Reddy,Right_Hand,Legbreak,India
+Pankaj Singh,Right_Hand,Right-arm medium-fast,India
+Parvez Rasool,Right_Hand,Right-arm offbreak,India
+PC Valthaty,Right_Hand,Right-arm medium,India
+PD Collingwood,Right_Hand,Right-arm medium,England
+PJ Cummins,Right_Hand,Right-arm fast,Australia
+PJ Sangwan,Right_Hand,Left-arm medium,India
+PM Sarvesh Kumar,Right_Hand,Right-arm medium,India
+PP Chawla,Left_Hand,Legbreak,India
+PP Ojha,Left_Hand,Slow left-arm orthodox,India
+PR Shah,Right_Hand,Right-arm medium,India
+PSP Handscomb,Right_Hand,Right-arm medium,Australia
+PV Tambe,Right_Hand,Legbreak,India
+Q de Kock,Left_Hand,Right-arm medium,South Africa
+R Ashwin,Right_Hand,Right-arm offbreak,India
+R Bhatia,Right_Hand,Right-arm medium-fast,India
+R Bhui,Right_Hand,Right-arm medium,India
+R Bishnoi,Right_Hand,Right-arm medium-fast,India
+R Dhawan,Right_Hand,Right-arm medium-fast,India
+R Dravid,Right_Hand,Right-arm offbreak,India
+R McLaren,Left_Hand,Right-arm medium-fast,South Africa
+R Ninan,Right_Hand,Right-arm offbreak,India
+R Parag,Right_Hand,Legbreak,India
+R Rampaul,Left_Hand,Right-arm fast-medium,West Indies
+R Salam,Right_Hand,Right-arm Fast,India
+R Sathish,Right_Hand,Right-arm medium,India
+R Sharma,Right_Hand,Right-arm offbreak,India
+R Shukla,Right_Hand,Right-arm medium,India
+R Singh,Right_Hand,Right-arm medium,India
+R Tewatia,Left_Hand,Legbreak,India
+R Vinay Kumar,Right_Hand,Right-arm medium,India
+RA Jadeja,Left_Hand,Slow left-arm orthodox,India
+RA Shaikh,Left_Hand,Left-arm medium,India
+RA Tripathi,Right_Hand,Right-arm medium,India
+Rashid Khan,Right_Hand,Legbreak googly,India
+RD Chahar,Right_Hand,Legbreak googly,India
+RE Levi,Right_Hand,Right-arm medium,South Africa
+RE van der Merwe,Right_Hand,Slow left-arm orthodox,South Africa
+RG More,Right_Hand,Right-arm medium,India
+RG Sharma,Right_Hand,Right-arm offbreak,India
+RJ Harris,Right_Hand,Right-arm fast,Australia
+RJ Peterson,Left_Hand,Slow left-arm orthodox,South Africa
+RJ Quiney,Left_Hand,Right-arm medium,Australia
+RN ten Doeschate,Right_Hand,Right-arm medium-fast,Netherlands
+RP Singh,Right_Hand,Left-arm fast-medium,India
+RR Bhatkal,Right_Hand,Right-arm medium,India
+RR Bose,Right_Hand,Right-arm fast-medium,India
+RR Pant,Left_Hand,Right-arm medium,India
+RR Powar,Right_Hand,Right-arm offbreak,India
+RR Raje,Right_Hand,Right-arm fast-medium,India
+RR Rossouw,Left_Hand,Right-arm offbreak,South Africa
+RR Sarwan,Right_Hand,Legbreak,West Indies
+RS Bopara,Right_Hand,Right-arm medium,England
+RS Gavaskar,Left_Hand,Slow left-arm orthodox,India
+RS Sodhi,Right_Hand,Right-arm medium,India
+RT Ponting,Right_Hand,Right-arm medium,Australia
+RV Gomez,Right_Hand,Right-arm medium,India
+RV Pawar,Left_Hand,Slow left-arm orthodox,India
+RV Uthappa,Right_Hand,Right-arm medium,India
+RW Price,Right_Hand,Slow left-arm orthodox,Zimbabwea
+S Anirudha,Right_Hand,Right-arm medium,India
+S Aravind,Left_Hand,Left-arm medium-fast,India
+S Badree,Right_Hand,Legbreak,West Indies
+S Badrinath,Right_Hand,Right-arm offbreak,India
+S Chanderpaul,Left_Hand,Legbreak,West Indies
+S Curran,Left_Hand,Left-arm medium-fast,India
+S Dhawan,Left_Hand,Right-arm offbreak,India
+S Dube,Left_Hand,Right-arm fast-medium,India
+S Gill,Right_Hand,Right-arm medium,India
+S Gopal,Right_Hand,Legbreak,India
+S Hetmyer,Left_Hand,Right-arm medium,India
+S Kaul,Right_Hand,Right-arm medium,India
+S Kaushik,Right_Hand,Slow left-arm chinaman,India
+S Kuggeleijn,Right_Hand,Right-arm fast,India
+S Ladda,Right_Hand,Legbreak,India
+S Lamichhane,Right_Hand,Legbreak googly,India
+S Mavi,Right_Hand,Right-arm fast-medium,India
+S Midhun,Right_Hand,Legbreak,India
+S Nadeem,Right_Hand,Slow left-arm orthodox,India
+S Narwal,Left_Hand,Right-arm medium,India
+S Rana,Right_Hand,Right-arm medium-fast,India
+S Randiv,Right_Hand,Right-arm offbreak,Sri Lanka
+S Rutherford,Left_Hand,Right-arm fast-medium,India
+S Sharma,Right_Hand,Right-arm fast-medium,India
+S Singh,Right_Hand,Right-arm medium,India
+S Sohal,Right_Hand,Legbreak,India
+S Sreesanth,Right_Hand,Right-arm fast-medium,India
+S Sriram,Left_Hand,Slow left-arm orthodox,India
+S Tyagi,Right_Hand,Right-arm medium,India
+S Vidyut,Left_Hand,Slow left-arm orthodox,India
+S Warrier,Right_Hand,Right-arm fast-medium,India
+SA Abbott,Right_Hand,Right-arm fast-medium,New Zealand
+SA Asnodkar,Right_Hand,Right-arm offbreak,India
+SA Yadav,Right_Hand,Right-arm offbreak,India
+Sachin Baby,Left_Hand,Right-arm offbreak,India
+Salman Butt,Left_Hand,Right-arm offbreak,Pakistan
+Sandeep Sharma,Right_Hand,Right-arm medium,India
+SB Bangar,Right_Hand,Right-arm medium-fast,India
+SB Jakati,Left_Hand,Slow left-arm orthodox,India
+SB Joshi,Left_Hand,Slow left-arm orthodox,India
+SB Styris,Right_Hand,Right-arm medium,New Zealand
+SB Wagh,Left_Hand,Left-arm medium-fast,India
+SC Ganguly,Left_Hand,Right-arm medium,India
+SD Chitnis,Right_Hand,Right-arm offbreak,India
+SD Lad,Right_Hand,Right-arm medium,India
+SE Bond,Right_Hand,Right-arm fast,New Zealand
+SE Marsh,Left_Hand,Slow left-arm orthodox,Australia
+Shahid Afridi,Right_Hand,Legbreak googly,Pakistan
+Shakib Al Hasan,Left_Hand,Slow left-arm orthodox,Bangladesh
+Shivam Sharma,Right_Hand,Right-arm offbreak,India
+Shoaib Ahmed,Right_Hand,Right-arm fast-medium,Pakistan
+Shoaib Akhtar,Right_Hand,Right-arm fast,Pakistan
+Shoaib Malik,Right_Hand,Right-arm offbreak,Pakistan
+SJ Srivastava,Right_Hand,Left-arm fast-medium,India
+SK Raina,Left_Hand,Right-arm offbreak,India
+SK Trivedi,Right_Hand,Right-arm medium,India
+SK Warne,Right_Hand,Legbreak googly,Australia
+SL Malinga,Right_Hand,Right-arm fast,Sri Lanka
+SM Boland,Right_Hand,Right-arm fast-medium,Australia
+SM Harwood,Right_Hand,Right-arm fast-medium,Australia
+SM Katich,Left_Hand,Slow left-arm chinaman,Australia
+SM Pollock,Right_Hand,Right-arm fast-medium,South Africa
+SMSM Senanayake,Right_Hand,Right-arm offbreak,Sri Lanka
+SN Khan,Right_Hand,Legbreak,India
+SN Thakur,Right_Hand,Right-arm medium,India
+Sohail Tanvir,Left_Hand,Left-arm medium-fast,Pakistan
+SP Fleming,Left_Hand,Right-arm medium,New Zealand
+SP Goswami,Left_Hand,Right-arm medium,India
+SP Jackson,Right_Hand,Right-arm medium,India
+SP Narine,Left_Hand,Right-arm offbreak,West Indies
+SPD Smith,Right_Hand,Legbreak googly,India
+SR Tendulkar,Right_Hand,Right-arm offbreak,India
+SR Watson,Right_Hand,Right-arm fast-medium,Australia
+SS Agarwal,Right_Hand,Legbreak googly,India
+SS Iyer,Right_Hand,Legbreak googly,India
+SS Mundhe,Right_Hand,Right-arm medium,India
+SS Sarkar,Right_Hand,Right-arm medium,India
+SS Shaikh,Right_Hand,Right-arm medium,India
+SS Tiwary,Left_Hand,Right-arm medium,India
+ST Jayasuriya,Left_Hand,Slow left-arm orthodox,Sri Lanka
+STR Binny,Right_Hand,Right-arm medium,India
+Sunny Gupta,Right_Hand,Right-arm offbreak,India
+Sunny Singh,Right_Hand,Right-arm medium-fast,India
+SV Samson,Right_Hand,Right-arm medium,India
+SW Billings,Right_Hand,Right-arm medium,England
+SW Tait,Right_Hand,Right-arm fast,Australia
+Swapnil Singh,Right_Hand,Slow left-arm orthodox,India
+T Curran,Right_Hand,Right-arm fast-medium,India
+T Henderson,Right_Hand,Right-arm fast-medium,South Africa
+T Kohli,Right_Hand,Right-arm medium,India
+T Mishra,Right_Hand,Right-arm fast-medium,India
+T Natarajan,Left_Hand,Left-arm fast-medium,India
+T Shamsi,Right_Hand,Slow left-arm chinaman,South Africa
+T Taibu,Right_Hand,Right-arm medium,Zimbabwea
+T Thushara,Left_Hand,Left-arm fast-medium,Sri Lanka
+TA Boult,Right_Hand,Left-arm fast-medium,New Zealand
+TD Paine,Right_Hand,Right-arm medium,Australia
+Tejas Baroka,Right_Hand,Legbreak googly,India
+TG Southee,Right_Hand,Right-arm medium-fast,New Zealand
+TL Suman,Right_Hand,Right-arm offbreak,India
+TM Dilshan,Right_Hand,Right-arm offbreak,Sri Lanka
+TM Head,Left_Hand,Right-arm offbreak,Australia
+TM Srivastava,Left_Hand,Right-arm medium,India
+TP Sudhindra,Left_Hand,Right-arm fast,India
+TR Birt,Left_Hand,Right-arm medium,Australia
+TS Mills,Right_Hand,Left-arm fast,India
+U Kaul,Left_Hand,Right-arm medium,India
+UA Birla,Right_Hand,Right-arm medium,India
+UBT Chand,Right_Hand,Right-arm offbreak,India
+Umar Gul,Right_Hand,Right-arm fast-medium,Pakistan
+UT Khawaja,Left_Hand,Right-arm medium,Australia
+UT Yadav,Right_Hand,Right-arm fast-medium,India
+V Chakravarthy,Right_Hand,Legbreak,India
+V Kohli,Right_Hand,Right-arm medium,India
+V Pratap Singh,Right_Hand,Right-arm medium,India
+V Sehwag,Right_Hand,Right-arm offbreak,India
+V Shankar,Right_Hand,Right-arm medium,India
+VH Zol,Left_Hand,Right-arm offbreak,India
+Vishnu Vinod,Right_Hand,Right-arm medium,India
+VR Aaron,Right_Hand,Right-arm fast,India
+VRV Singh,Right_Hand,Right-arm medium-fast,India
+VS Malik,Right_Hand,Right-arm medium,India
+VS Yeligati,Right_Hand,Right-arm offbreak,India
+VVS Laxman,Right_Hand,Right-arm offbreak,India
+VY Mahesh,Right_Hand,Right-arm medium-fast,India
+W Jaffer,Right_Hand,Right-arm offbreak,India
+WA Mota,Right_Hand,Right-arm medium,India
+Washington Sundar,Left_Hand,Right-arm offbreak,India
+WD Parnell,Left_Hand,Left-arm medium-fast,South Africa
+WP Saha,Right_Hand,Right-arm medium,India
+WPUJC Vaas,Left_Hand,Left-arm fast-medium,Sri Lanka
+X Thalaivan Sargunam,Right_Hand,Right-arm offbreak,India
+Y Gnaneswara Rao,Right_Hand,Right-arm medium,India
+Y Nagar,Right_Hand,Right-arm offbreak,India
+Y Venugopal Rao,Right_Hand,Right-arm offbreak,India
+YA Abdulla,Left_Hand,Left-arm fast-medium,India
+Yashpal Singh,Right_Hand,Right-arm medium,India
+YK Pathan,Right_Hand,Right-arm offbreak,India
+Younis Khan,Right_Hand,Right-arm medium,Pakistan
+YS Chahal,Right_Hand,Legbreak googly,India
+Yuvraj Singh,Left_Hand,Slow left-arm orthodox,India
+YV Takawale,Right_Hand,Right-arm medium,India
+Z Khan,Right_Hand,Left-arm fast-medium,India
