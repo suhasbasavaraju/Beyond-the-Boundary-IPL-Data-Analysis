@@ -1,4 +1,4 @@
-# IPL-Data-Visualization-Project
+# Beyond the Boundary - IPL Data Analysis
 
 This project is dedicated to a comprehensive analysis of the Indian Premier League (IPL) dataset, delving into various performance metrics, including toss outcomes, significant victories, top team totals, contenders for orange and purple caps, boundary statistics, team performance, and win percentages in home and away matches. The results of this investigation offer invaluable insights for IPL stakeholders, assisting them in gaining a deeper understanding of the critical factors that contribute to IPL success, thereby aiding in strategic decisions and team selection.
 
